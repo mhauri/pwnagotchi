@@ -1,6 +1,6 @@
 PACKER_VERSION=1.7.2
 PWN_HOSTNAME=pwnagotchi
-PWN_VERSION=master
+PWN_VERSION=1.5.5
 
 all: clean install image
 
